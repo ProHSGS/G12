@@ -1,5 +1,6 @@
-# 12th Grade
-12th grade's documents!
+# G12
 
-## Copyright
-Copyright (c) Skool +.
+## License
+Copyright &copy; **SkoolPlus**. All rights reserved.
+
+Licensed under the [CC0](LICENSE) license.
